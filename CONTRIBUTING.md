@@ -12,7 +12,7 @@ to do this, but remember about following rules.
 - When you create a pull request (PR), always select the branch your code based on as target.
 - Before submitting your PR, please rebase your branch on the target branch.
 
-## Standards
+## Standards (PHP)
 
 - Our code standard based on PSR-12, but includes more detailed rules.
 - For code style checks, formatting and static analyze we use the following tools:
